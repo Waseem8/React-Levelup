@@ -2,6 +2,7 @@ import react from 'react';
 import ReactDOM from 'react-dom';
 import Skills from './components/skills'
 import logo from './images/lavelupLogo.jpg'
+//adding comment just for seening on the git 
 
 const App = () => {
     return <div>
